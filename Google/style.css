@@ -1,0 +1,44 @@
+ body{
+     text-align:center;
+     font-family:arial,sans-serif;
+     font-size:small;
+}
+ header {
+     text-align:right;
+     padding:30px;
+}
+
+ a {
+	 text-decoration:none;
+}
+ a:hover {
+	 text-decoration:underline;
+}
+ .header-links {
+     color:black;
+     padding-left:5px;
+     padding-right:5px;
+}
+ .logo {
+     margin-top: 200px;
+     width:500px;
+     height:150px;
+}
+ .search-bar {
+     margin:20px;
+     width:600px;
+     height:35px;
+}
+ .button {
+     height:40px;
+     padding:10px 20px 10px 20px;
+     margin:5px;
+     font-size:13px;
+     font-weight:bold;
+     color:#757575;
+}
+ .language-links {
+     padding-left:3px;
+     padding-right:3px;
+}
+ 
